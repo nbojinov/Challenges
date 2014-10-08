@@ -1,0 +1,709 @@
+Simon Abaigbe	Undergraduate	Pt III BSc Computer Science 	sa10g12	
+Renato Abdanur Ferreira Porto	Postgraduate, instructional course	MSc in System on Chip 	rafp1g13	
+M. Firdaus Abdul Muttalib	Postgraduate, nominal	Nano Research Group	mfam1g08	+44 (0)23 8059 2422
+Anas Abuzaina	Postgraduate, nominal	Communications, Signal Processing and Control	aa6g08	
+Abha Aggarwal	Postgraduate, instructional course (not yet registered)	MSc in Web Technology 	aa6g11	
+Mohamed Hisham Hassan Ahmed	Postgraduate, instructional course	MSc in Software Engineering 	mhha1g13	
+Zeeshan Ahmed	Postgraduate, full-time research	Electronics and Electrical Engineering	za2g13	+44 (0)23 8059 3234
+Fatmah Akeel	Postgraduate, full-time research	Electronic and Software Systems	fya1g12	
+Rehab Albeladi	Postgraduate, full-time research	Web and Internet Science	raab1g09	
+Fadwa M Al Rowais	Postgraduate, full-time research	Web and Internet Science	fmar1v10	
+Dalal Al-Azizy	Postgraduate, full-time research (not yet registered)	Web and Internet Science	daaa1g09	+44 (0)23 8059 5749
+Professor Bashir M Al-Hashimi	Academic staff	Electronic and Software Systems	bmah	+44 (0)23 8059 3249
+Abdullah Maskari	Undergraduate	Pt IV MEng Electronic Engineering with Mobile and Secure Systems 	am1e10	
+Abdullah Alrajeh	Postgraduate, nominal	Communications, Signal Processing and Control	asar1a10	+44 (0)23 8059 2929
+Alper Turan Alan	Postgraduate, full-time research	Agents, Interaction and Complexity	ata1g11	
+Dimitrios Alanis	Postgraduate, full-time research	Communications, Signal Processing and Control	da4g11	+44 (0)23 8059 2422
+Eldar Alasgarov	Undergraduate	Pt III BSc IT in Org 	ea2g12	
+Thamer Saleh Alathari	Postgraduate, nominal	Communications, Signal Processing and Control	tsa1g11	
+Ahmed Alazri	Postgraduate, instructional course	MSc in Web Technology 	aa4g14	
+Nada ALBUNNI	Postgraduate, full-time research	Web and Internet Science	na11g10	
+Hisham A. Alghamdi	Postgraduate, full-time research (not yet registered)	Electronics and Electrical Engineering	haga1g11	+44 (0)23 8059 6650
+Saud Aljaloud	Postgraduate, full-time research	Web and Internet Science	sza1g10	
+Naif Radi Aljohani	Postgraduate, submitted	Web and Internet Science	nra1d10	
+Dr Feras Alkhalil	Postgraduate, instructional course	MSc in Microelectronics Systems Design 	fa2e13	
+Dr Feras Alkhalil	Research staff	Nano Research Group	fma1g08	
+Craig Allison	Postgraduate, full-time research	Web and Internet Science	ca306	
+Ahmed Almusallam	Postgraduate, full-time research	Electronics and Electrical Engineering	asa1g09	
+Abdulaziz M Almutairi	Postgraduate, suspended	Web and Internet Science	ama2g11	
+Ahmed A Alnatheer	Postgraduate, submitted	Electronic and Software Systems	aaa1v09	
+Dr. Sara Jeza Alotaibi	Postgraduate, submitted	Web and Internet Science	sja2g09	
+Areeb Alowisheq	Postgraduate, submitted	Web and Internet Science	aaa08r	+44 (0)23 8059 1525
+Ezzat H Alqurashi	Postgraduate, full-time research (not yet registered)	Electronic and Software Systems	eha1r10	
+Nora Al-Rajebah	Postgraduate, full-time research	Web and Internet Science	nia1c12	
+Zyad SA Alreemy	Postgraduate, full-time research (not yet registered)	Electronic and Software Systems	zsa1g12	
+Abdulelah Alwabel	Postgraduate, full-time research	Electronic and Software Systems	aa1a10	
+Pedro Santo Amaro	Postgraduate, nominal	Electronics and Electrical Engineering	pa3g08	+44 (0)23 8059 3176
+Jim Eliot Andrew	Postgraduate, instructional course (not yet registered)	MSc in Energy and Sustainability with Electrical Power Engineering 	jea1g14	
+Dr. Thomas Andritsch	Academic staff	Electronics and Electrical Engineering	ta1m12	+44 (0)23 8059 9613
+Kewalin Angkananon	Postgraduate, full-time research	Web and Internet Science	ka3e10	
+Henco Appel	Undergraduate	Pt IV MEng Computer Science 	hja1g11	
+Christos Archeos	Undergraduate	Pt IV MEng Electrical Engineering 	ca5g10	
+Jordi Arranz	Postgraduate, submitted	Agents, Interaction and Complexity	ja1e09	
+Professor Peter Ashburn	Academic staff	Nano Research Group	pa	+44 (0)23 8059 2886
+Tristan Aubrey-Jones	Postgraduate, nominal	Electronic and Software Systems	taj105	+44 (0)23 8059 7684
+Jo C Axtell	Group Administrator	Administration Group	jca2	+44 (0)23 8059 4506
+Craig Aylett	ugirsx	Pt III MEng Electronic Engineering with Nanotechnology 	ca8g11	
+Peter Ayliffe	Academic-related staff	Nano Research Group	pa5	+44 (0)23 8059 8099
+Raed Ayoob	Postgraduate, full-time research	Electronics and Electrical Engineering	ra1e10	
+Norhidayah Azman	Postgraduate, submitted	Web and Internet Science	nba08r	+44 (0)23 8059 5749
+Tim Baarslag	Research staff	Agents, Interaction and Complexity	tb1m13	+44 (0)23 8059 2774
+Zunaira Babar	Postgraduate, full-time research	Communications, Signal Processing and Control	zb2g10	+44 (0)23 8059 2422
+Professor Darren M Bagnall	Academic staff	Nano Research Group	dmb	+44 (0)23 8059 7609
+Christopher Baines	Undergraduate	Pt IV MEng Computer Science 	cb15g11	
+Chris Baker	Postgraduate, full-time research	Agents, Interaction and Complexity	cabb1g08	
+Mehdi Banakar	Postgraduate, part-time	Nano Research Group	mb07r	+44 (0)23 8059 3737
+Stuart John Bartlett	Postgraduate, submitted	Agents, Interaction and Complexity	sjb4g09	
+Anomadarshi Barua	Postgraduate, instructional course	European MSc in Embedded Systems 	ab18g14	
+Philip Basford	Postgraduate, submitted	Web and Internet Science	pjb08r	+44 (0)23 8059 4583
+Philip J Basford	Research staff	Web and Internet Science	pjb	+44 (0)23 8059 4583
+Faith Bateman	Postgraduate, full-time research	Nano Research Group	fb2g12	+44 (0)23 8059 6783
+Dave A Batt	System administrator	Systems Group	dab	+44 (0)23 8059 4478
+Fahad Bawakid	Postgraduate, full-time research	Web and Internet Science	fmsb1e13	
+Nicole E Beale	Postgraduate, full-time research	Web and Internet Science	nes1g10	
+Zoltán Beck	Postgraduate, full-time research	Agents, Interaction and Complexity	zb1f12	
+Professor Steve Beeby	Academic staff	Electronics and Electrical Engineering	spb	+44 (0)23 8059 6663
+Gareth P Beeston	Postgraduate, full-time research	Web and Internet Science	gpb1g12	
+Marijan Beg	Postgraduate, full-time research	Agents, Interaction and Complexity	mb4e10	+44 (0)23 8059 8381
+Samuel E Beresford	Undergraduate	Pt I MEng Computer Science 	seb1g13	
+Professor Sir Tim Berners-Lee	Academic staff	Web and Internet Science	timbl	
+Arturs Bicons	Undergraduate	Pt III BSc IT in Org 	ab10g10	
+Oliver F Bills	Postgraduate, suspended	Web and Internet Science	ofb1v07	
+Oliver F Bills	Postgraduate, suspended	Web and Internet Science	ofb	
+Fahad I Bin Moqhim	Postgraduate, full-time research	Web and Internet Science	fibm1e09	
+Radi Husin Bin Ramlee	Postgraduate, full-time research	Electronics and Electrical Engineering	rhbr1m12	+44 (0)23 8059 3114
+Teresa Binks	Postgraduate, submitted	Electronic and Software Systems	tb1206	
+Reuben Binns	Postgraduate, full-time research	Web and Internet Science	rb5g11	
+Geoff 'Shivoa' Birch	Postgraduate, full-time research	Electronic and Software Systems	gb2g10	
+Robert D Blair	Postgraduate, full-time research	Web and Internet Science	rdb1g11	+44 (0)23 8059 2738
+Tom Blount	Postgraduate, full-time research	Web and Internet Science	tb12g09	+44 (0)23 8059 5749
+Dr Stuart Boden	Research staff	Nano Research Group	sb1	+44 (0)23 8059 3278
+Valentina Bono	Postgraduate, full-time research	Electronic and Software Systems	vb2a12	
+Liam A Boodhoo	Postgraduate, full-time research	Nano Research Group	lab406	
+Ash Booth	Postgraduate, full-time research	Agents, Interaction and Complexity	ab24v07	
+Artur Borisevic	Undergraduate	Pt II MEng Electronic Engineering with Artificial Intelligence 	ab19g13	
+Charlotte ER Boseley	Undergraduate	wf3	cerb1g12	
+Panagiotis Botsinis	Postgraduate, full-time research	Communications, Signal Processing and Control	pb8g10	+44 (0)23 8059 2422
+Graeme McLachlan Bragg	Postgraduate, full-time research	Electronic and Software Systems	gmb1g08	+44 (0)23 8059 4583
+Dr Markus Brede	Academic staff	Agents, Interaction and Complexity	mb8	+44 (0)23 8059 3703
+Rianna Briggs	Undergraduate	Pt IV MEng Electronic Engineering 	rb15g11	
+Tim Brody	Guest	Systems Group	tdb2	+44 (0)23 8059 8935
+Professor Andrew Brown	Academic staff	Electronics and Electrical Engineering	adb	+44 (0)23 8059 3374
+Gunawan Budiprasetyo	Postgraduate, full-time research	Web and Internet Science	gb2g13	
+Prof Seth Bullock	Academic staff	Agents, Interaction and Complexity	sgb	+44 (0)23 8059 5776
+Professor Michael J Butler	Academic staff	Electronic and Software Systems	mjb	+44 (0)23 8059 2435
+Prins Adeel Butt	Postgraduate, part-time	Electronic and Software Systems	pab07r	+44 (0)23 8059 5749
+Tapiwanashe F Bwakura	Undergraduate	Pt I BEng Electronic Engineering 	tfb1g14	
+Mustafa Caglar	Undergraduate	Pt IV MEng Electronic Engineering with Nanotechnology 	mc5g11	
+Priank Cangy	Undergraduate	Pt III MEng Electrical Engineering 	pc8g11	
+Zhuo CAO	Postgraduate, nominal	Electronics and Electrical Engineering	zc2e09	+44 (0)23 8059 3234
+"Zhuo" Cao	Research staff	Electronics and Electrical Engineering	zc2a13	+44 (0)23 8059 6665
+Jaymie A Caplen	Postgraduate, part-time (not yet registered)	Web and Internet Science	jac606	
+Leslie Carr	Academic staff	Web and Internet Science	lac	+44 (0)23 8059 4479
+Daniela Carta	Research staff	Nano Research Group	dc1e13	+44 (0)23 8059 3737
+Dr John N Carter	Academic staff	Communications, Signal Processing and Control	jnc	+44 (0)23 8059 2405
+Jacob Causon	Undergraduate	Pt III MEng Computer Science 	jc29g12	
+Gianfranco Cecconi	Postgraduate, full-time research	Web and Internet Science	gc1a13	
+Mariko M Chadwick	Undergraduate	wf2	mmc1g12	
+Dr Sepi Chakaveh	Research staff (Visiting)	Web and Internet Science	sc2	+44 (0)23 8059 2069
+Cheng Chang	Postgraduate, full-time research	Electronics and Electrical Engineering	cc506	
+Dr Victor Chang	Research staff	Other (non-ECS but in our database)	vc1d13	
+Corin Chaplin	Undergraduate	Pt III MEng Computer Science 	cdc1g12	
+Dr Paul H Chappell	Academic staff	Electronics and Electrical Engineering	phc	+44 (0)23 8059 3442
+Dr Martin D Charlton	Academic staff	Nano Research Group	mdbc	+44 (0)23 8059 7388
+Shre Kumar Chatterjee	Postgraduate, full-time research	Electronic and Software Systems	skc105	
+Fei Chen	Postgraduate, instructional course	MSc in Wireless Communications 	fc2e13	
+Professor George Chen	Academic staff	Electronics and Electrical Engineering	gc	+44 (0)23 8059 5166
+Professor Sheng Chen	Academic staff	Communications, Signal Processing and Control	sqc	+44 (0)23 8059 6660
+Taihai CHEN	Postgraduate, submitted	Electronic and Software Systems	tc10g09	+44 (0)23 8059 7267
+Taihai Chen	Research staff	Communications, Signal Processing and Control	tc1m13	+44 (0)23 8059 4482
+Dr Xiaoyu Chen	Research staff	IT Innovation Centre	xc2	+44 (0)23 8059 8866
+Dr Richard Chippendale	Research staff	Electronics and Electrical Engineering	rc1e13	+44 (0)23 8059 3176
+Dr. Harold M H Chong	Academic staff	Nano Research Group	hmhc	+44 (0)23 8059 3777
+Dr Tim Chown	Academic staff	Web and Internet Science	tjc	+44 (0)23 8059 3257
+Stelios Christou	Postgraduate, full-time research	Electronics and Electrical Engineering	sc10g09	
+Malevi Chrysostomou	Postgraduate, instructional course	MSc in Software Engineering 	mc14g14	
+Dr Bing Chu	Academic staff	Communications, Signal Processing and Control	bc1d11	+44 (0)23 8059 6653
+Simone Ciaralli	Postgraduate, full-time research	Electronics and Electrical Engineering	sc2d11	
+Dr Corina Cirstea	Academic staff	Electronic and Software Systems	cc2	+44 (0)23 8059 3625
+Dr Owain Clark	Technical staff	Nano Research Group	odc	+44 (0)23 8059 8097
+Marcus Cobden	Postgraduate, submitted	Web and Internet Science	mc08r	+44 (0)23 8059 4492
+Stefan Collier	Undergraduate	Pt II MEng Computer Science with Artificial Intelligence 	sc22g13	
+Samantha Collins	Administrator	Other (non-ECS but in our database)	sc3	+44 (0)23 8059 2386
+Eric Cooke	Academic-related staff (Visiting)	Other (non-ECS but in our database)	ecc	+44 (0)23 8059 3271
+Gianluca Correndo	Research staff	IT Innovation Centre	gc3	+44 (0)23 8059 8866
+Dr Enrico Costanza	Academic staff	Agents, Interaction and Complexity	ec	+44 (0)23 8059 9255
+Dr Andy Cranny	Research staff	Electronics and Electrical Engineering	awc	+44 (0)23 8059 9204
+Dr Stephen Crouch	Research staff	Web and Internet Science	stc	+44 (0)23 8059 8787
+Dr Richard M Crowder	Academic staff	Agents, Interaction and Complexity	rmc	+44 (0)23 8059 3441
+Dr Simon A Crowle	Research staff	IT Innovation Centre	sac1n10	+44 (0)23 8059 8866
+Lee J Crudgington	Postgraduate, full-time research	Electronics and Electrical Engineering	ljc1g09	+44 (0)23 8059 2422
+George Cushen	Postgraduate, full-time research	Communications, Signal Processing and Control	gc505	+44 (0)23 8059 7690
+Heba Dairieh	Postgraduate, instructional course	MSc in Web Technology 	hnrd1g13	
+Sadegh Dalvandi	Postgraduate, full-time research	Electronic and Software Systems	md5g11	
+Lauren J Dampier	Group Administrator	Administration Group	ljd	+44 (0)23 8059 8867
+Samson P Danziger	Undergraduate	Pt I BSc Computer Science 	spd2g14	
+Anup K Das	Postgraduate, full-time research	Electronic and Software Systems	akd1g13	+44 (0)23 8059 3119
+Dr Saptarshi Das	Research staff	Communications, Signal Processing and Control	sd2a11	
+Dr Srinandan Dasmahapatra	Academic staff	Communications, Signal Processing and Control	sd	+44 (0)23 8059 4503
+Andy Davies	Undergraduate (not yet registered this year)	Pt IV MEng Computer Science 	aed1g10	
+George EM Davies	Undergraduate	Pt III MEng Computer Science 	gemd1g12	
+Huw C Davies	Postgraduate, full-time research (not yet registered)	Web and Internet Science	hcd1g10	
+Jamie Davies	Undergraduate	Pt IV MEng Computer Science 	jagd1g11	
+Susan D Davies	Academic-related staff	Administration Group	sdd	+44 (0)23 8059 3523
+Tim Davies	Postgraduate, part-time	Web and Internet Science	tgd1g11	
+Professor Hugh C. Davis	Academic staff	Web and Internet Science	hcd	+44 (0)23 8059 3669
+Alexander JN Daykin-Iliopoulos	Postgraduate, full-time research	Electronics and Electrical Engineering	ajdi1g14	
+Robert De Caux	Postgraduate, suspended	Agents, Interaction and Complexity	rdc1g11	
+Professor CH "Kees" De Groot	Academic staff	Nano Research Group	chdg	+44 (0)23 8059 2732
+Dr Maurits de Planque	Academic staff	Nano Research Group	mdp	+44 (0)23 8059 9307
+Professor David C De Roure	Guest	Web and Internet Science	dder	+44 (0)23 8059 2418
+Zhili Deng	Postgraduate, instructional course (not yet registered)	csMScCy	zd1g14	
+Dana Dghaym	Postgraduate, suspended	Electronic and Software Systems	dd4g12	
+Federico Diez Canseco	Postgraduate, instructional course (not yet registered)	European MSc in Embedded Systems 	fjde1u12	
+Chaohai Ding	Postgraduate, full-time research	Web and Internet Science	cd8e10	
+Longtao Dong	Postgraduate, nominal	Nano Research Group	ld4e09	
+Zheng Dong	ugirsx	Pt III MEng Electronic Engineering 	zd203	
+Andrew K Douglas	Postgraduate, submitted	Electronic and Software Systems	akd07r	+44 (0)23 8059 9614
+E.A. Draffan	Research staff	Web and Internet Science	ead	+44 (0)23 8059 7246
+Dr. Laura Dragan	Research staff	Web and Internet Science	lcd1n12	
+Kier J Dugan	Postgraduate, full-time research	Electronics and Electrical Engineering	kjd1v07	+44 (0)23 8059 3081
+Dr James Dyke	Academic staff	Agents, Interaction and Complexity	jd4	+44 (0)23 8059 3665
+Dr Andrew Edmunds	Research staff	Electronic and Software Systems	ae2	+44 (0)23 8059 9052
+Dr Mohammed El-Hajjar	Academic staff	Communications, Signal Processing and Control	meh	+44 (0)23 8059 7032
+Sheik Mohammad Roushdat Ally Elaheebocus	Postgraduate, full-time research	Web and Internet Science	re1e08	
+Ali Elboreini	Undergraduate	Pt I MEng Electromechanical Engineering 	ae5g14	
+Anastasia Eleftheriou	Postgraduate, full-time research	Agents, Interaction and Complexity	ae2n12	
+Dr Terry Elliott	Academic staff	Web and Internet Science	te	+44 (0)23 8059 7080
+Sue A Ellis	Administrator	Administration Group	sae	+44 (0)23 8059 2509
+Jonah Emeson	Postgraduate, instructional course	MSc in Software Engineering 	je3g13	
+Donald Esrafili-Gerdeh	Postgraduate, submitted	Electronics and Electrical Engineering	deg00r	+44 (0)23 8059 3120
+Dr Demetres Evagorou	Research staff	Electronics and Electrical Engineering	de3g13	
+Maire Byrne (Evans)	Postgraduate, full-time research	Web and Internet Science	me1g11	
+C "Andrew" Everett	Research staff	Systems Group	ace	+44 (0)23 8059 6684
+Arthur Fabre	Undergraduate	Pt III MEng Computer Science 	af1g12	
+Nawfal F Fadhel	Postgraduate, full-time research	Electronic and Software Systems	nff1g08	
+Neil Fagan	Associated staff	Optoelectronics Research Centre	nf2	+44 (0)23 8059 2963
+Maciej M Faron	Undergraduate	euro1	mmf1g14	
+Yilin Feng	Undergraduate (not yet registered this year)	Pt I MEng Electrical Engineering 	yf5g14	
+Rafael Souza Ferraz	Undergraduate	itS1	rsf1g13	
+Teresa I Ferreiro	Research staff	Other (non-ECS but in our database)	tif1u13	
+Adam Field	System administrator	Systems Group	af05v	+44 (0)23 8059 5678
+Julian Field MEng CITP CEng	System administrator	Systems Group	jkf	+44 (0)23 8059 2817
+Bernd Fischer	Academic staff (Visiting)	Other (non-ECS but in our database)	bf	+44 (0)23 8059 9047
+Sam J Fishlock	Postgraduate, full-time research	Nano Research Group	sjf1e12	
+Gemma Fitzsimmons	Postgraduate, full-time research	Web and Internet Science	gt4g08	
+Simon Foitzik	Postgraduate, instructional course	Undergraduate, european year in	sf3g14	
+Tim M Forcer	Guest	ltts	tmf	
+Christine Foster	Administrator	Administration Group	cf1	+44 (0)23 8059 9048
+Tobias Franzen	Postgraduate, instructional course	European MSc in Embedded Systems 	tf2g14	
+Dr Christopher Freeman	Academic staff	Electronics and Electrical Engineering	cf	+44 (0)23 8059 3486
+Professor Mark C French	Academic staff	Other (non-ECS but in our database)	mcf	+44 (0)23 8059 2688
+Radoslaw Freyer	Undergraduate	Pt IV MEng Electronic Engineering with Artificial Intelligence 	rf7g11	
+Daniele Frollani	Postgraduate, full-time research	Electronics and Electrical Engineering	df1r11	
+Huw Fryer	Postgraduate, full-time research	Web and Internet Science	hf1g10	
+Timothy Furlong	Undergraduate	Pt II MEng Electronic Engineering 	tjf2g13	
+William Fyson	Postgraduate, full-time research	Web and Internet Science	rwf1v07	
+Professor Steve Gabriel	Academic staff	Electronics and Electrical Engineering	sbg2	+44 (0)23 8059 3222
+Milosz Gaczkowski	Undergraduate	Pt IV MEng Computer Science 	mjg2c10	
+Dr Craig Gallen C.Eng, MIET(MIEE)	Guest	Web and Internet Science	cg02r	+44 (0)23 8059 6657
+Feng GAO	Postgraduate, submitted	Agents, Interaction and Complexity	fg3g09	+44 (0)23 8059 5415
+Paul Gaskell	Postgraduate, full-time research	Web and Internet Science	pvg1g10	
+Dr Enrico H Gerding	Academic staff	Agents, Interaction and Complexity	eg	+44 (0)23 8059 9201
+Seyed Hossein Ghotbi	Postgraduate, submitted	Electronic and Software Systems	shg08r	
+Michalis Giannakou	Postgraduate, instructional course	MSc in Energy and Sustainability with Electrical Power Engineering 	mg7g14	
+Dr Nicholas Gibbins	Academic staff	Web and Internet Science	nmg	+44 (0)23 8059 8879
+Lester Gilbert	Academic staff	Electronic and Software Systems	lg3	+44 (0)23 8059 3831
+Hugh Glaser	Guest	Web and Internet Science	hg	
+Kevin F Goddard	Research staff	Electronics and Electrical Engineering	kfg	+44 (0)23 8059 5352
+Tobias Goehring	Postgraduate, full-time research	Electronics and Electrical Engineering	tg1e13	
+Dr Carsten Gollasch	Research staff	Other (non-ECS but in our database)	cg09v	+44 (0)23 8059 2650
+Dr Igor Golosnoy	Academic staff	Electronic and Software Systems	ig	+44 (0)23 8059 7694
+Richard C Gomer	Postgraduate, full-time research	Web and Internet Science	rcg1v07	
+Miguel Gonzalez Canudas	Postgraduate, full-time research	Agents, Interaction and Complexity	mgc1g11	
+Amanda L Goodacre	Group Administrator	Administration Group	alg	+44 (0)23 8059 2929
+Dr Neil J Grabham	Research staff	Electronics and Electrical Engineering	njg	+44 (0)23 8059 5162
+Dr Simon Grange MB ChB PhD FRCS (Tr&Orth)	Research staff	Other (non-ECS but in our database)	sg01v	
+Dr Andrew M Gravell (aka Andy Gravell)	Academic staff	Electronic and Software Systems	amg	+44 (0)23 8059 2741
+Jonathan Gray	Postgraduate, full-time research	Agents, Interaction and Complexity	jg1g12	
+Dr Nicolas G Green	Academic staff	Nano Research Group	ng2	+44 (0)23 8059 3778
+Richard R Green	Undergraduate	Pt I MEng Electronic Engineering with Nanotechnology 	rrg1g14	
+Roberto J Gregoratti	Undergraduate	Pt III BSc Computer Science 	rjg1g12	
+Yawwani P Gunawardana	Postgraduate, full-time research	Communications, Signal Processing and Control	ypg1g12	
+Professor Steve R Gunn	Academic staff	Electronic and Software Systems	srg	+44 (0)23 8059 2338
+Xu Guo	Postgraduate, instructional course	MSc in Wireless Communications 	xg1e13	
+Shashank K Gupta	Postgraduate, full-time research		skg1g10	
+Shruti Gupta	Postgraduate, full-time research	Communications, Signal Processing and Control	sg7g12	+44 (0)23 8059 9317
+Matthew P Gussin	Academic-related staff	Administration Group	mpg1c11	
+Christopher Gutteridge	System administrator	Systems Group	cjg	+44 (0)23 8059 4833
+Zainidi Haji Abdul Hamid	Postgraduate, full-time research	Nano Research Group	zhah1g11	
+Nawar Halabi	Postgraduate, full-time research	Web and Internet Science	nh2f13	
+Dr. Basel Halak	Academic staff	Electronics and Electrical Engineering	bh9	+44 (0)23 8059 7381
+Professor Dame Wendy Hall	Academic staff	Web and Internet Science	wh	+44 (0)23 8059 2388
+Shuojin Hang	Postgraduate, full-time research	Nano Research Group	sh13g08	
+Professor Lajos Hanzo	Academic staff	Communications, Signal Processing and Control	lh	+44 (0)23 8059 3125
+Miao Hao	Postgraduate, nominal	Electronics and Electrical Engineering	mh2e10	+44 (0)23 8059 3176
+Ruri A Hapsari	Postgraduate, instructional course	csMScCy	rah1g14	
+Dr Jonathon S Hare	Academic staff	Web and Internet Science	jsh2	+44 (0)23 8059 7678
+Dr Charlie Hargood	Research staff	Web and Internet Science	cah07r	+44 (0)23 8059 5749
+Pascal K Harimech	Postgraduate, full-time research	Nano Research Group	pkh1g12	
+Stevan Harnad	Academic staff	Web and Internet Science	harnad	+44 (0)23 8059 4474
+George A Harris	Undergraduate	Pt III MEng Computer Science 	gah2g12	
+Dr Nick R Harris	Academic staff	Electronics and Electrical Engineering	nrh	+44 (0)23 8059 3274
+Denise Harvey	Administrator	Administration Group	dh	+44 (0)23 8059 3782
+Fiona Harvey	Research staff	Other (non-ECS but in our database)	fg	+44 (0)23 8059 4421
+Mahboba M Hasan	Postgraduate, full-time research	Other (non-ECS but in our database)	mmh1g11	
+Nur ZI Hashim	Postgraduate, full-time research	Nano Research Group	nzih1c11	
+Sammer-Ul Hassan	Postgraduate, full-time research (Visiting)	Nano Research Group	sh6g12	
+Dr Alexander Hay	Research staff	Web and Internet Science	ah3f12	+44 (0)23 8059 5729
+Tom Hebbron	Postgraduate, submitted	Agents, Interaction and Complexity	teh07r	+44 (0)23 8059 8703
+William R Hector	Undergraduate	Pt IV MEng Electronic Engineering with Mobile and Secure Systems 	wrh1g11	
+James P Heppell	Postgraduate, full-time research		jph106	
+Simon Hettrick	Academic-related staff	Web and Internet Science	sjh	+44 (0)23 8059 8871
+Lewis Hill	Undergraduate	Pt I MEng Computer Science 	lh9g14	
+Nicholas Hill	Postgraduate, full-time research	Agents, Interaction and Complexity	nch1e11	
+Christopher I Holbrow	Undergraduate	Pt II MEng Electronic Engineering 	cih1g13	
+James C Holyhead	Postgraduate, full-time research	MSc in Artificial Intelligence 	jch2g12	
+Dr Clare J Hooper	Research staff	IT Innovation Centre	cjh06r	+44 (0)23 8059 8866
+Samuel B Hooper	Undergraduate	Pt IV MEng Computer Science 	sbh2g11	
+Dr Ian L Hosier	Research staff	Electronics and Electrical Engineering	ilh	+44 (0)23 8059 3176
+Giles A Howard	Undergraduate	Pt III MEng Computer Science with Artificial Intelligence 	gah2g11	
+Dr. Yvonne Howard	Research staff	Web and Internet Science	ymh	+44 (0)23 8059 5749
+Andrew J Howe	Undergraduate	Pt III MEng Computer Science 	ajh6g12	
+Glenys C Howe	Group Administrator	Administration Group	gch	+44 (0)23 8059 2733
+Liliya T Hristova	Postgraduate, instructional course (not yet registered)	MSc in Wireless Communications 	lth1g12	
+Chunxiao Hu	Research staff	Nano Research Group	ch2u12	+44 (0)23 8059 6783
+Diwen Hu	Undergraduate	Pt II BEng Electronic Engineering 	dh1g14	
+Jie Hu	Postgraduate, full-time research	Communications, Signal Processing and Control	jh10g11	
+Ping Hua	Research staff	Optoelectronics Research Centre	ph4	+44 (0)23 8059 3133
+Rui Huang	Postgraduate, full-time research	Electronics and Electrical Engineering	rh5g10	
+Ruomeng Huang	Postgraduate, nominal	Nano Research Group	rh3g09	
+Ziyi Huang	Postgraduate, submitted	Electronics and Electrical Engineering	zh2g09	+44 (0)23 8059 3176
+Ann-Marie Hughes	Research staff (Visiting)	Other (non-ECS but in our database)	amh	+44 (0)23 8059 5191
+Christopher M Hughes	Postgraduate, full-time research	Web and Internet Science	cmh206	
+Em Prof John Hughes	Academic staff (Visiting)	Other (non-ECS but in our database)	jfh	+44 (0)23 8059 2124
+Yiqian Hui	Undergraduate	eeeMEng2	yh21g13	
+Dr Jack A. Hunter	Research staff	Electronics and Electrical Engineering	jah1c12	+44 (0)23 8059 9306
+Menghong Huo	Postgraduate, instructional course	MSc in Web Technology 	mh11g11	
+Paul J Hurle	Technical staff	Electronics and Electrical Engineering	pjh1m13	+44 (0)23 8059 3234
+Dr Muhammad Khaled Husain	Research staff	Nano Research Group	mkh	+44 (0)23 8059 6658
+Amr Hussein	Postgraduate, full-time research	Agents, Interaction and Complexity	amlh1g12	+44 (0)23 8059 3256
+Dr Trung Dong Huynh	Research staff	Web and Internet Science	tdh	+44 (0)23 8059 3270
+William J Igwe	Postgraduate, full-time research	Electronics and Electrical Engineering	wji1n13	
+Muhammad Imran	Postgraduate, nominal	Web and Internet Science	mi1g08	
+Adisak Intana	Postgraduate, full-time research	Electronic and Software Systems	ai1n10	+44 (0)23 8059 5052
+Devasena Inupakutika	Research staff	Web and Internet Science	di1c13	+44 (0)23 8059 8787
+Omar Inverso	Postgraduate, full-time research (not yet registered)	Electronic and Software Systems	oi2c11	
+Halienah Ismail	Undergraduate	Pt I BEng Electrical Engineering 	hi1g14	
+Adam Jackson	Postgraduate, full-time research	Agents, Interaction and Complexity	aj3e10	
+Guy S Jacobs	Postgraduate, full-time research	Agents, Interaction and Complexity	gsj1e10	+44 (0)23 8059 3711
+Syed Asim Jalal	Postgraduate, nominal	Web and Internet Science	smaj08r	+44 (0)23 8059 4492
+Wasifa Jamal	Postgraduate, full-time research	Electronic and Software Systems	wj4g08	+44 (0)23 8059 3114
+Jaeseok Jang	Postgraduate, instructional course	MSc in System on Chip 	jj2g13	
+Yasmin Dayani Jayasinghe	Postgraduate, submitted	Electronic and Software Systems	ydj1g11	
+Harrison Jell	Undergraduate	Pt IV MEng Computer Science with Artificial Intelligence 	hj6g11	
+Simeon M Jenkins	Undergraduate	Pt IV MEng Electronic Engineering 	smj1g11	
+Cameron J Jenkinson	Undergraduate	tr3	cjj1g11	
+Professor Nick R Jennings	Academic staff	Agents, Interaction and Complexity	nrj	+44 (0)23 8059 7681
+Michael O. Jewell	Research staff	Agents, Interaction and Complexity	moj	+44 (0)23 8059 8309
+Teng Jiang	Postgraduate, nominal	Electronic and Software Systems	tj2g11	
+Kiran Jogia	Undergraduate	Pt I BSc Computer Science 	kj2g12	
+Barry Juans Ajiwibawa	Postgraduate, instructional course	MSc in Software Engineering 	bja2g13	
+Sumit Kalsi	Academic staff	Nano Research Group	sk1r13	+44 (0)23 8059 4504
+Dr Tom J Kazmierski	Academic staff	Electronics and Electrical Engineering	tjk	+44 (0)23 8059 3520
+Richard S Kean	Technical staff	Nano Research Group	rsk	+44 (0)23 8059 7389
+Stuart Kellaway	Undergraduate	Pt III Mcomp IT in Org 	sk18g12	
+Arshad A. Khan	Postgraduate, part-time	Web and Internet Science	aak1v11	+44 (0)23 8059 2205
+Umar Khan	Postgraduate, submitted	Communications, Signal Processing and Control	uaak1g10	+44 (0)23 8059 6651
+Zuburqan Khan	Postgraduate, instructional course	MSc in Software Engineering 	zk1u12	
+Dr Kian S Kiang	Technical staff	Nano Research Group	ksk	+44 (0)23 8059 8099
+Alexander King	Undergraduate	Pt IV MEng Computer Science 	ajk4g11	
+Dr Philip King	Research staff	Other (non-ECS but in our database)	pk3	+44 (0)23 8059 3943
+Alison M Knight	Postgraduate, full-time research	Web and Internet Science	amk1g10	
+Maralyn B Knight	Administrator (Visiting)	Administration Group	mbk	+44 (0)23 8059 4504
+Abiodun O Komolafe	Postgraduate, full-time research	Electronics and Electrical Engineering	aok1g08	+44 (0)23 8059 3234
+Dr Dimitrios Kontziampasis	Research staff	Nano Research Group	dk1r13	+44 (0)23 8059 3737
+Dr Ramachandra Kota	Research staff	Other (non-ECS but in our database)	rck05r	+44 (0)23 8059 2774
+Konstantinos Kouvaris	Postgraduate, full-time research	Agents, Interaction and Complexity	kk6g11	
+Jedrzej J Kufel	Postgraduate, nominal	Electronic and Software Systems	jjk1g10	+44 (0)23 8059 3119
+Mustafa Cagri Kutlu	Postgraduate, full-time research	Electronics and Electrical Engineering	mck1e12	
+Konstantinos Lagogiannis	Postgraduate, submitted	Web and Internet Science	kml206	+44 (0)23 8059 4583
+Verity J Laing	Administrator	Administration Group	vjl1a13	+44 (0)23 8059 2124
+Kai Chi Alex Lam	Postgraduate, submitted	Electronics and Electrical Engineering	kcal1g10	
+Joe Lambert	Research staff	Systems Group	jl2	+44 (0)23 8059 5415
+Andrew Paul Landells	System administrator	Systems Group	apl	+44 (0)23 8059 6879
+Rod Lane	Postgraduate, submitted	Electronics and Electrical Engineering	rpl04r	
+Kim S Lange	Administrator	Administration Group	ksl	+44 (0)23 8059 2068
+Sei Ping Lau	Postgraduate, full-time research	Electronic and Software Systems	spl1g11	+44 (0)23 8059 4996
+Sam Lavers	Undergraduate	Pt III BSc Computer Science 	sl17g12	
+Ha N Le	Undergraduate	Pt III BSc Computer Science 	nhl1g11	
+"Sze Sing" Lee	Academic staff	Other (non-ECS but in our database)	sl2a13	+44 (0)23 8059 2170
+Teerasak Lee	Postgraduate, instructional course	MSc in Microelectronics Systems Design 	tl7e13	
+Manuel León Urrutia	Postgraduate, full-time research	Web and Internet Science	ml4c08	
+Nicki J Lewin	Guest	Science and Engineering of Natural Systems Group	nl2	+44 (0)23 8059 4510
+Professor Paul Lewin	Academic staff	Electronics and Electrical Engineering	pll	+44 (0)23 8059 3586
+Adam P Lewis	Research staff	Other (non-ECS but in our database)	apl1r11	+44 (0)23 8059 2873
+Joyce Lewis	Academic-related staff	Other (non-ECS but in our database)	jkl2	+44 (0)23 8059 5453
+Prof Paul Lewis	Professor Emeritus	Other (non-ECS but in our database)	phl	+44 (0)23 8059 4474
+Ke Li	Research staff	Communications, Signal Processing and Control	kl1u09	+44 (0)23 8059 3545
+Li Li	Postgraduate, submitted	Communications, Signal Processing and Control	ll5e08	
+Li Li	Postgraduate, submitted	Communications, Signal Processing and Control	ll5e08	
+Menglong Li	Undergraduate (not yet registered this year)	Pt IV MEng Electronic Engineering 	ml1g12	
+Weihe Li	Postgraduate, part-time	Nano Research Group	wl11g11	
+Xuan Li	Postgraduate, full-time research	Communications, Signal Processing and Control	xl26g12	
+Yi Li	Postgraduate, nominal	Electronics and Electrical Engineering	yl1r10	+44 (0)23 8059 3234
+Yi Li	Research staff	Electronics and Electrical Engineering	yl8c13	+44 (0)23 8059 2353
+Yunjia Li	Research staff	Web and Internet Science	yl2	+44 (0)23 8059 1525
+"Hong" Liu	Research staff	Other (non-ECS but in our database)	hl1v13	+44 (0)23 8059 3242
+Hua Liu	Postgraduate, instructional course	MSc in Systems and Signal Processing 	hl4e13	
+Jing Liu	Postgraduate, submitted	Communications, Signal Processing and Control	jl4g10	
+Mandy Lo	Postgraduate, full-time research	Web and Internet Science	cmml100	
+Lauren Long	Undergraduate	Pt IV Mcomp IT in Org 	ll20g11	
+Haoyu Lou	Undergraduate	Pt I BEng Electrical Engineering 	hl12e13	
+Dr Siow Yong Low	Academic staff	Other (non-ECS but in our database)	sl1m12	77470
+Markus Luczak-Roesch	Research staff	Web and Internet Science	mlr1m12	+44 (0)23 8059 8347
+Dr. Zhenhua Luo	Research staff	Electronics and Electrical Engineering	zl1v13	+44 (0)23 8059 9318
+Stephen G. Lynch	Postgraduate, full-time research	Optoelectronics Research Centre	sl23g09	+44 (0)23 8059 7811
+Joshua D Lyndsell	Undergraduate	Pt I BSc Computer Science 	jdl1g14	
+Alistair Lynn	Undergraduate (not yet registered this year)	Pt IV MEng Computer Science 	al22g09	
+Luis A Maeda-Nunez	Postgraduate, full-time research	Electronic and Software Systems	lm15g10	
+Dr. Koushik Maharatna	Academic staff	Electronic and Software Systems	km3	+44 (0)23 8059 9322
+Dr. Sasan Mahmoodi	Academic staff	Communications, Signal Processing and Control	sm3	+44 (0)23 8059 3284
+Shekhar Mahmud	Postgraduate, nominal	Electronics and Electrical Engineering	sm8e08	+44 (0)23 8059 6650
+Oluwadolapo A Majekodunmi	Postgraduate, instructional course	dPhdWs1	oam1g14	
+Sasan Maleki	Postgraduate, nominal	Agents, Interaction and Complexity	sm9g09	
+Sepehr Maleki	Postgraduate, full-time research	Communications, Signal Processing and Control	sm13g10	+44 (0)23 8059 4882
+Obaid Malik	Postgraduate, full-time research	Agents, Interaction and Complexity	om1e09	+44 (0)23 8059 7688
+Dr Kanad Mallik	Research staff (Visiting)	Other (non-ECS but in our database)	km2	+44 (0)23 8059 3127
+Ghaithaa Manla	Research staff	Other (non-ECS but in our database)	gm504	+44 (0)23 8059 3545
+Jonathan Martin	Guest	Information: Signals, Images, Systems Research Group	jm4	
+Kirk Martinez	Academic staff	Web and Internet Science	km	+44 (0)23 8059 4491
+Alaa Mashat	Postgraduate, full-time research	Web and Internet Science	aam1f11	
+Andreas Mathikolonis	Postgraduate, full-time research	Electronics and Electrical Engineering	am506	+44 (0)23 8059 6629
+Joseph W. Matiko	Postgraduate, nominal	Electronics and Electrical Engineering	jwm1g11	+44 (0)23 8059 3234
+Nikolaos Matthaiakakis	Postgraduate, full-time research	Nano Research Group	nm3g12	
+Tim Matthews	Postgraduate, full-time research	Communications, Signal Processing and Control	tm1e10	
+Rachael Maudsley	Undergraduate	Pt III BSc IT in Org 	rm14g12	
+Dr Rob Maunder	Academic staff	Communications, Signal Processing and Control	rm	+44 (0)23 8059 4482
+Thabiso Maupong	Postgraduate, full-time research	Communications, Signal Processing and Control	tmm204	
+Brigitte Mayne-Reed	Group Administrator	Administration Group	bmr1a06	+44 (0)23 8059 4474
+Jonathan Mayo-Maldonado	Postgraduate, full-time research	Communications, Signal Processing and Control	jcmm1g11	
+Robert B Mayon	Postgraduate, full-time research	Web and Internet Science	rbm3g14	
+Dr. Evangelos B. Mazomenos	Research staff	Electronic and Software Systems	ebm	+44 (0)23 8059 3545
+Dr. Evangelos B. Mazomenos	Guest	Electronic and Software Systems	ebm07r	+44 (0)23 8059 3545
+Phoebe McEwen	Undergraduate	Pt I MEng Computer Science 	pm10g14	
+B Iain McNally	Academic-related staff	Electronics and Electrical Engineering	bim	+44 (0)23 8059 3124
+Patrick McSweeney	System administrator	Systems Group	pm5	+44 (0)23 8059 8075
+Ken E Meacham	Research staff	IT Innovation Centre	kem	+44 (0)23 8059 8866
+Chetan S Mehra	Postgraduate, full-time research (not yet registered)	Agents, Interaction and Complexity	csm1g11	
+Sonal Mehta	Administrator	Administration Group	sm17	+44 (0)23 8059 4186
+Dr Panos Melas	Research staff	IT Innovation Centre	pm1	+44 (0)23 8059 8866
+Jiuxi Meng	Undergraduate	Pt II BEng Electronic Engineering 	jm15g13	
+Dr Geoff Merrett	Academic staff	Electronic and Software Systems	gvm	+44 (0)23 8059 2775
+Dr Cheryl D Metcalf	Research staff (Visiting)	Other (non-ECS but in our database)	cdm	+44 (0)23 8059 8927
+Dr Danius T Michaelides	Research staff	Web and Internet Science	dtm	+44 (0)23 8059 9379
+Dr. lee middleton	Research staff	IT Innovation Centre	ljm	+44 (0)23 8059 8866
+Dr Stuart E Middleton	Research staff	IT Innovation Centre	sem	+44 (0)23 8059 8866
+Sam Millar	Undergraduate	Pt IV MEng Computer Science 	sm32g11	
+Dr David Millard	Academic staff	Web and Internet Science	dem	+44 (0)23 8059 5567
+Dr Ian Millard	Research staff	Other (non-ECS but in our database)	icm	+44 (0)23 8059 4059
+Tristan Millington	Undergraduate	Pt IV MEng Electronic Engineering with Computer Systems 	tm8g11	
+Sahar Mirzaei	Postgraduate, full-time research	Nano Research Group	sm9c13	
+Mohd Syafiq Mispan	Postgraduate, full-time research (not yet registered)	Electronics and Electrical Engineering	msm1g14	
+Professor Hiroshi Mizuta	Academic staff	Nano Research Group	hm2	+44 (0)23 8059 2852
+Azwadi Mohamad	Postgraduate, full-time research	Electronics and Electrical Engineering	am306r	
+Dr Nima Mohammad pour	Research staff	Electronics and Electrical Engineering	nmp2r13	+44 (0)23 8059 2075
+Zakaria Moktadir	Staff	Nano Research Group	zm	+44 (0)23 8059 3278
+Christopher Mollett	Undergraduate	Pt IV MEng Software Engineering 	cm18g10	
+Professor Luc Moreau	Academic staff	Web and Internet Science	lavm	+44 (0)23 8059 4487
+Prof. Hywel Morgan	Academic staff	Nano Research Group	hm	+44 (0)23 8059 3330
+Jane Morgan	Academic-related staff	Administration Group	jem	+44 (0)23 8059 6664
+Dr Despina Moschou	Research staff	Nano Research Group	dm6c13	+44 (0)23 8059 3737
+Wassim J Mughal	Postgraduate, part-time	Nano Research Group	wjm1c12	
+Sanjeet Mukherjee	Undergraduate	Pt II MEng Computer Science 	sm25g13	
+Joanna Munson	Postgraduate, full-time research	Web and Internet Science	jem1g13	
+Iman Naja	Postgraduate, suspended	Web and Internet Science	izn1g08	+44 (0)23 8059 8309
+Amirjan Nawabjan	Postgraduate, full-time research	Nano Research Group	an1a11	
+Milos Nedeljkovic	Postgraduate, submitted	Nano Research Group	mn3m11	
+Nichola A Need	Administrator	Administration Group	nan	+44 (0)23 8059 2386
+David R Newman	Research staff	Web and Internet Science	drn	+44 (0)23 8059 8459
+Russell Newman	Research staff (Visiting)	Other (non-ECS but in our database)	rn2	
+Russell Newman	Postgraduate, nominal	Web and Internet Science	rn106	
+Andy Newton	System administrator	Systems Group	amn	+44 (0)23 8059 4483
+Dr Soon Xin Ng (Michael)	Academic staff	Communications, Signal Processing and Control	sxn	+44 (0)23 8059 3376
+Fiona Nichols	Associated staff (Visiting)	Other (non-ECS but in our database)	fmn	+44 (0)23 8059 2791
+Denis A Nicole MA PhD MIEE CEng	Academic staff	Electronic and Software Systems	dan	+44 (0)23 8059 2703
+Professor Mahesan Niranjan	Academic staff	Communications, Signal Processing and Control	mn	+44 (0)23 8059 3021
+Professor Mark S Nixon	Academic staff	Communications, Signal Processing and Control	msn	+44 (0)23 8059 3542
+Martin MA Nunez Velazquez	Postgraduate, full-time research	Other (non-ECS but in our database)	mmnv1g12	
+Terhi Nurmikko, BA (Hons), MPhil, MSc, MSc	Postgraduate, submitted	Web and Internet Science	tmtn1g10	
+Dr Kieron O'Hara	Research staff	Web and Internet Science	kmo	+44 (0)23 8059 2582
+David Oakley	Academic-related staff	Electronics and Electrical Engineering	do	+44 (0)23 8059 3990
+Ah Reum Oh	Postgraduate, full-time research	Communications, Signal Processing and Control	aro1g11	
+Marcus S Ojerinde-Ardalla	Undergraduate	Pt III BSc Computer Science 	msoa1g12	
+Innocent Okidi	Undergraduate	Pt IV MEng Electronic Engineering with Wireless Communications 	io1g11	
+Olumide J Okubadejo	Postgraduate, instructional course	MSc in Artificial Intelligence 	ojo1g13	
+Prince G Olubari	Undergraduate	Pt II MEng Electrical Engineering 	po2g13	
+Anuoluwapo Olutimilehin	Undergraduate	pj2	ao6g10	
+Temitope O Omitola	Research staff	Web and Internet Science	tobo	
+Neil L Palmer	Academic-related staff	Electronics and Electrical Engineering	nlp	+44 (0)23 8059 3238
+Aris-Athanasios Panagopoulos	Postgraduate, full-time research	Agents, Interaction and Complexity	ap1e13	
+Konstantinos Papadimitriou	Research staff	Nano Research Group	kp1y13	+44 (0)23 8059 3737
+Dimitrios Papamilios	Postgraduate, instructional course	MSc in Web Technology 	dp5g13	
+Tim Parkinson	Academic-related staff	Web and Internet Science	tsp	+44 (0)23 8059 8382
+Gennaro Parlato	Academic staff	Electronic and Software Systems	gp4	+44 (0)23 8059 3440
+Dr Oliver Parson	Research staff	Agents, Interaction and Complexity	osp	
+Priyesh Patel	Undergraduate	wr3	pp7g12	
+Jarutas Pattanaphanchai	Postgraduate, submitted	Web and Internet Science	jp11g09	
+Professor Dave N Payne	Academic staff	Optoelectronics Research Centre	dnp@orc	+44 (0)23 8059 3583
+Dr Stuart Pearce	Research staff	Nano Research Group	sp3	+44 (0)23 8059 3127
+Javier Pereda	Postgraduate, full-time research	Web and Internet Science	jp6g11	
+Isaac Perez Andrade	Postgraduate, full-time research	Electronic and Software Systems	ip1g10	+44 (0)23 8059 4482
+Clayton L Peters	System administrator	Systems Group	cp105	+44 (0)23 8059 3375
+Alexander Petrov	Undergraduate	Pt II BEng Electromechanical Engineering 	anp2u12	
+Christopher J Phethean	Postgraduate, nominal	Web and Internet Science	cjp106	
+Olivier Philippe	Postgraduate, full-time research	Web and Internet Science	op1e10	
+Dr Stephen C Phillips	Research staff	IT Innovation Centre	scp	+44 (0)23 8059 8866
+Siew Peng Phuan	Postgraduate, full-time research	Electronics and Electrical Engineering	spp1g10	
+J Adrian Pickering	Academic staff (Visiting)	Other (non-ECS but in our database)	jap	
+Brian Pickering	Research staff	IT Innovation Centre	jbp	+44 (0)23 8059 8866
+Dr James A Pilgrim	Academic staff	Electronics and Electrical Engineering	jp2	+44 (0)23 8059 3429
+Daniel JA Playle	Undergraduate	Pt III MEng Computer Science 	djap1g11	
+Dr Alberto Politi	Research staff	Other (non-ECS but in our database)	ap6g13	+44 (0)23 8059 3956
+Dr. Maria Polukarov	Academic staff	Agents, Interaction and Complexity	mp3	+44 (0)23 8059 4699
+Christopher O Poluyi	Postgraduate, instructional course	MSc in Wireless Communications 	cop1g13	
+Pollawat Poonjiradejma	Undergraduate	Pt III MEng Computer Science 	pp1g11	
+Dr. Michael R. Poppleton	Academic staff	Electronic and Software Systems	mrp	+44 (0)23 8059 7084
+Dr Matt Praeger	Research staff	Electronics and Electrical Engineering	mattp	+44 (0)23 8059 3176
+James Prance	Undergraduate	Pt III MEng Electronic Engineering with Mobile and Secure Systems 	jp11g11	
+Rikki Prince	Postgraduate, part-time (not yet registered)	Web and Internet Science	rfp07r	+44 (0)23 8059 5749
+Rikki Prince	Research staff	Web and Internet Science	rfp	00000
+Henry Prior	Undergraduate	Pt III BEng Electromechanical Engineering 	hp8g12	
+Dr Themis Prodromakis	Academic staff	Nano Research Group	tp1f12	+44 (0)23 8059 8803
+Dr Adam Prugel-Bennett	Academic staff	Communications, Signal Processing and Control	apb	+44 (0)23 8059 4473
+Dr Suan Hui Pu	Research staff	Other (non-ECS but in our database)	shp	77461
+Luke JW Pullman	Undergraduate	Pt I MEng Computer Science 	ljwp1g14	
+Joshua M Quickfall	ugirsx	Pt I BEng Electrical Engineering 	jmq1g13	
+Vaidyalingam Ramalingam	Undergraduate	Pt III MEng Computer Science 	vr1g12	
+Dr. Sarvapali Ramchurn	Academic staff	Agents, Interaction and Complexity	sdr	+44 (0)23 8059 9309
+Paolo Rapisarda	Academic staff	Communications, Signal Processing and Control	pr3	+44 (0)23 8059 3367
+Mansour Rasoulzadeh Darabad	Postgraduate, nominal	Electronics and Electrical Engineering	mrd1g10	
+Olja Rastic-Dulborough	Undergraduate	Pt IV Mcomp IT in Org 	ord1c08	
+Dr Julian Rathke	Academic staff	Electronic and Software Systems	jr2	+44 (0)23 8059 9181
+Hwanjit Rattanasonti	Postgraduate, nominal	Nano Research Group	hr1e09	+44 (0)23 8059 6658
+Dhanushan Raveendran	Undergraduate	Pt IV MEng Electronic Engineering with Computer Systems 	dr3g11	
+Riccardo Reale	Postgraduate, full-time research	Nano Research Group	rr2e13	
+Thomas Redman	Postgraduate, nominal	Electronics and Electrical Engineering	tr406	+44 (0)23 8059 3081
+Prof. William Redman-White	Academic staff	Nano Research Group	wrw	+44 (0)23 8059 3617
+Sophie M Reed	Postgraduate, suspended	Agents, Interaction and Complexity	smr2g10	+44 (0)23 8059 3711
+Dr Jeff Reeve	Academic staff	Electronics and Electrical Engineering	jsr	+44 (0)23 8059 2784
+Anna Regoutz	Research staff	Nano Research Group	ar3e13	
+Rehman	Postgraduate, full-time research	Communications, Signal Processing and Control	aur1g12	
+Dr Abdolbaghi Rezazadeh	Academic staff	Electronic and Software Systems	ra3	+44 (0)23 8059 3233
+Darren P. Richardson	Postgraduate, full-time research	Web and Internet Science	dpr1g09	
+Elzabi M Rimington	Postgraduate, full-time research	Web and Internet Science	emr2g08	
+John S Robinson	Research staff	Web and Internet Science	jsr2	+44 (0)23 8059 8787
+Dr. Valentin Robu	Guest	Agents, Interaction and Complexity	vr2	+44 (0)23 8059 2774
+Prof. Alex Rogers	Academic staff	Agents, Interaction and Complexity	acr	+44 (0)23 8059 9008
+Edward Rogers	Guest	Optoelectronics Research Centre	er2	+44 (0)23 8059 4531
+Professor Eric Rogers	Academic staff	Communications, Signal Processing and Control	etar	+44 (0)23 8059 2197
+Izabela A Romanowska	Postgraduate, full-time research	Agents, Interaction and Complexity	iar1g09	
+Dr Daniele Rossi	Academic staff	Electronic and Software Systems	dr1u13	+44 (0)23 8059 1619
+Stuart Rossiter	Research staff	Agents, Interaction and Complexity	sr1	+44 (0)23 8059 6681
+Dr Mihai Rotaru	Academic staff	Electronic and Software Systems	mr	77463
+Joshua Michael Rowlinson	Postgraduate, full-time research	Electronics and Electrical Engineering	jr10g08	
+Robert Rudolf	Postgraduate, submitted	Electronics and Electrical Engineering	rr1v07	+44 (0)23 8059 3081
+Dan A Rusu	Undergraduate	Pt III MEng Computer Science 	dar1g12	
+Prof Harvey Rutt, FREng, FInstP, FOSA, FIEE, SMIEEE, CEng, CPhys	Academic staff	Nano Research Group	hnr	+44 (0)23 8059 3814
+Paul Ryan	Postgraduate, full-time research	Agents, Interaction and Complexity	par1g10	
+Professor Shinichi Saito	Academic staff	Nano Research Group	ss1a11	+44 (0)23 8059 3169
+Asieh Salehi Fathabadi	Research staff	Electronic and Software Systems	asf08r	+44 (0)23 8059 5052
+Seyed Reza Sandoghchi	Postgraduate, full-time research	Other (non-ECS but in our database)	srs1g12	+44 (0)23 8059 2610
+Mike Santer	Research staff	Electronic and Software Systems	mhds	
+Dr Ibrahim Sari	Research staff	Nano Research Group	is2	+44 (0)23 8059 2650
+Farhana Sarker	Postgraduate, submitted	Web and Internet Science	fs5g09	
+Professor Vladimiro Sassone	Academic staff	Web and Internet Science	vs	+44 (0)23 8059 9009
+Dr Alejandra Recio Saucedo	Research staff	Other (non-ECS but in our database)	ars	+44 (0)23 8059 7971
+prof. m.c. schraefel, ph.d., f.bcs, cscs, c.eng	Academic staff	Agents, Interaction and Complexity	mc	+44 (0)23 8059 8372
+Gerry Scott	Academic staff	Electronic and Software Systems	gws1e14	+44 (0)23 8059 2749
+Jonathan Scott	Postgraduate, full-time research	Web and Internet Science	js3g10	
+Amir Sezavar Keshavarz	Postgraduate, full-time research	Web and Internet Science	ask2g10	+44 (0)23 8059 8309
+Nigel Shadbolt FBCS FREng	Academic staff	Web and Internet Science	nrs	+44 (0)23 8059 7682
+Rishad A Shafik	Research staff	Electronic and Software Systems	ras1n09	+44 (0)23 8059 2888
+Beining SHANG	Postgraduate, full-time research	Agents, Interaction and Complexity	bs3g10	
+Christopher J Shaw	Postgraduate, instructional course	MSc in Nanoelectronics and Nanotechnology 	cjs2g11	
+Yukun Shen	Postgraduate, instructional course	MSc in Energy and Sustainability with Electrical Power Engineering 	ys13g10	
+Emily Shepherd	Undergraduate	Pt III MEng Computer Science 	ams2g11	
+Jian Shi	Postgraduate, submitted	Web and Internet Science	js9g09	
+Junjie Shi	Postgraduate, full-time research	Electronics and Electrical Engineering	js4g11	+44 (0)23 8059 3119
+Dongkyu Shin	Postgraduate, full-time research	Electronics and Electrical Engineering	ds7g14	
+Izaan Siddiqi	Undergraduate	Pt III MEng Computer Science 	ims1g12	
+Michail Sidorov	Academic-related staff	Other (non-ECS but in our database)	ms9u12	77492
+Dorota Alicja Sikorska-Kaczanowska	Administrator	Administration Group	dask1n11	+44 (0)23 8059 8825
+Tudor-Adrian Siminic	Undergraduate	Pt II MEng Computer Science with Artificial Intelligence 	ts7g13	
+Elena Simperl	Academic staff	Web and Internet Science	es6g12	+44 (0)23 8059 7692
+Priyanka Singh	Postgraduate, nominal	Web and Internet Science	ps1w07	
+Rishika Singh	Postgraduate, instructional course	MSc in Software Engineering 	rs9g13	
+Dipl-.ing. Krongboon Singhanat	Postgraduate, full-time research	Electronic and Software Systems	ks14g13	
+Wendy S Slack	Administrator	Administration Group	wss1	+44 (0)23 8059 3957
+Dr Paul Smart	Research staff	Web and Internet Science	ps02v	+44 (0)23 8059 6669
+Dr Ash Smith	System administrator	Systems Group	ads04r	+44 (0)23 8059 2861
+Dr Daniel Alexander Smith	Research staff	Web and Internet Science	ds	+44 (0)23 8059 8347
+Michael A J Smith	Technical staff	Electronics and Electrical Engineering	majs	+44 (0)23 8059 5865
+Prof Peter G.R. Smith	Academic staff	Other (non-ECS but in our database)	pgrs	+44 (0)23 8059 2809
+Dr Colin F Snook	Research staff	Electronic and Software Systems	cfs	+44 (0)23 8059 2888
+Dr Pawel Sobocinski	Academic staff	Electronic and Software Systems	ps	+44 (0)23 8059 9220
+Anna Soska	Postgraduate, submitted	Electronics and Electrical Engineering	ais106	
+Daniel Spencer	Academic staff	Nano Research Group	dcs	+44 (0)23 8059 2940
+Stevan Stankovic	Research staff	Optoelectronics Research Centre	ss1r12	+44 (0)23 8059 3126
+Lampros C. Stavrogiannis	Postgraduate, submitted	Agents, Interaction and Complexity	ls8g09	
+Dr Sebastian Stein	Academic staff	Agents, Interaction and Complexity	ss2	+44 (0)23 8059 7645
+Dinesh Sthapit	Postgraduate, instructional course (not yet registered)	European MSc in Embedded Systems 	ds15g13	
+Joseph M Sturgeon	Undergraduate	Pt II MEng Electronic Engineering 	jms2g13	
+Lisa Sugiura LLB (Hons) MSc MSc	Postgraduate, full-time research	Web and Internet Science	ls3e10	+44 (0)23 8059 8478
+Andrew Sullivan	Undergraduate	Pt IV MEng Computer Science 	as28g11	
+Gintautas Sulskus	Postgraduate, full-time research	Electronic and Software Systems	gs6g10	
+Huihui Sun	Postgraduate, nominal	Electronics and Electrical Engineering	hs8g09	+44 (0)23 8059 3234
+Dr Kai Sun	Research staff	Nano Research Group	ks5	+44 (0)23 8059 2422
+Lin Sun	Undergraduate	Pt III BEng Electromechanical Engineering 	ls24g12	
+Ayşe Saliha Sunar	Postgraduate, full-time research	Web and Internet Science	ass1a12	
+Angie Swift	Group Administrator	Administration Group	acs	+44 (0)23 8059 3738
+Prof Steve Swingler	Academic staff	Electronics and Electrical Engineering	sgs	+44 (0)23 8059 3358
+Iwan Syarif	Postgraduate, submitted	Web and Internet Science	is1e08	
+Dr Elzbieta Sykulska	Academic-related staff	Other (non-ECS but in our database)	es	+44 (0)23 8059 2509
+Professor Jan K Sykulski	Academic staff	Electronics and Electrical Engineering	jks	+44 (0)23 8059 3448
+Nick W. Synes	Postgraduate, full-time research	Agents, Interaction and Complexity	ns1e08	
+Longyubang Tan	Undergraduate	Pt III BEng Electromechanical Engineering 	lt3g13	
+Preecha Tangworakitthaworn	Postgraduate, submitted	Electronic and Software Systems	pt2e10	
+Antulio Tarazona	Guest	Nano Research Group	at2	
+Aine Izzati Tarmizi	Postgraduate, full-time research	Electronics and Electrical Engineering	ait1g12	
+David Tarrant	Guest	Web and Internet Science	dt2	
+Mary Taylor	Administrator	Administration Group	mt	+44 (0)23 8059 4505
+Matt R Taylor	Technical staff	Web and Internet Science	mrt	
+Luke Teacy	Research staff	Agents, Interaction and Complexity	wtlt	+44 (0)23 8059 8415
+Dr Vasileios Tenentes	Research staff	Electronic and Software Systems	vt1d13	+44 (0)23 8059 1619
+Ines Teresa-Palacio	Academic-related staff	Other (non-ECS but in our database)	itp1c06	+44 (0)23 8059 3726
+Tobias W Terhoeven	Undergraduate	Pt IV MEng Computer Science 	twt1g11	
+Kelly Terrell	Research staff	Web and Internet Science	kt2	+44 (0)23 8059 6670
+Giannis Theodoulou	Undergraduate	Pt I BSc Computer Science 	gt1e13	
+Katrina Thomas	Undergraduate	Pt II MEng Electronic Engineering 	kt6g13	
+Kenneth S Thomas	Professor Emeritus	Other (non-ECS but in our database)	kst	+44 (0)23 8059 2170
+Varghese Antony Thomas	Postgraduate, full-time research	Communications, Signal Processing and Control	vat1g10	+44 (0)23 8059 6671
+Gefion Thuermer	Postgraduate, instructional course	dPhdWs1	gt2g14	
+Meng Tian	Postgraduate, nominal	Electronic and Software Systems	mt5e09	
+EK "Liz" Tillotson	Administrator	Electronics and Electrical Engineering	ekt	+44 (0)23 8059 4450
+Ramine Tinati	Research staff	Web and Internet Science	rt1r13	+44 (0)23 8059 8347
+Nick Tinsley	Undergraduate	Pt IV MEng Electromechanical Engineering 	nft2g11	
+Dr Thanassis Tiropanis	Academic staff	Web and Internet Science	tt2	+44 (0)23 8059 9109
+Evangelos Tolias	Postgraduate, full-time research	Agents, Interaction and Complexity	et2e10	
+Ermenegildo Tomasco	Postgraduate, full-time research	Electronic and Software Systems	et1m11	
+Robert P Topley	Postgraduate, submitted	Nano Research Group	rpt1m11	+44 (0)23 8059 2697
+Dr Russel N Torah	Research staff	Electronics and Electrical Engineering	rnt	+44 (0)23 8059 2600
+Dr. Long Tran-Thanh	Research staff	Agents, Interaction and Complexity	ltt08r	+44 (0)23 8059 3256
+Maria Trapatseli	Postgraduate, full-time research	Nano Research Group	mt3c13	
+Mirco Tribastone	Academic staff	Electronic and Software Systems	mt2y12	+44 (0)23 8059 7695
+Max Tschaikowski	Research staff	Electronic and Software Systems	mt6e13	
+Dr Yoshishige Tsuchiya	Academic staff	Nano Research Group	yt2	+44 (0)23 8059 9312
+Simon J Tudge	Postgraduate, full-time research	Agents, Interaction and Complexity	sjt4g11	
+Dr John Tudor	Research staff	Electronics and Electrical Engineering	mjt	+44 (0)23 8059 4997
+Dominik Ullmann	Undergraduate	Pt IV MEng Computer Science 	du1e11	
+Log DA Uses	Guest	Systems Group	log_all	+44 (0)23 8059 2817
+Martha Valiadi	Academic staff	Nano Research Group	mv102	+44 (0)23 8059 8576
+electronic Max (Max Van Kleek)	Research staff	Web and Internet Science	mvk	
+Andrea Vandin	Research staff	Electronic and Software Systems	av1v13	
+Nikolaos-Sotirios Vasilakis	Postgraduate, full-time research	Nano Research Group	nv1n13	+44 (0)23 8059 3737
+Professor Alun S Vaughan	Academic staff	Electronics and Electrical Engineering	asv	+44 (0)23 8059 3398
+Matteo Venanzi	Postgraduate, submitted	Agents, Interaction and Complexity	mv1g10	+44 (0)23 8059 3256
+Matteo Venanzi	Research staff	Agents, Interaction and Complexity	mv3u13	+44 (0)23 8059 3256
+Dr Galina V Veres	Research staff	IT Innovation Centre	gvv	+44 (0)23 8059 8866
+Theodoros Verykios	Undergraduate	Pt III MEng Electronic Engineering with Nanotechnology 	tv1g11	
+Diego M Virasoro	Postgraduate, full-time research (not yet registered)	Web and Internet Science	dmv1c09	
+Dr Suvi Virtanen	Research staff	Electronics and Electrical Engineering	sv1a13	+44 (0)23 8059 4496
+Valerio Vitale	Postgraduate, full-time research	Agents, Interaction and Complexity	vv1c12	
+Professor Mike Wald	Academic staff	Web and Internet Science	mw	+44 (0)23 8059 3667
+Dr Robert J Walters	Academic staff	Electronic and Software Systems	rjw1	+44 (0)23 8059 3055
+Dr Leran Wang	Research staff	Other (non-ECS but in our database)	lw04r	+44 (0)23 8059 5074
+Quan Wang	Postgraduate, instructional course	MSc in MicroElectroMechanical Systems 	qw1g13	
+Wei Wang	Postgraduate, submitted	Electronics and Electrical Engineering	ww5g09	
+Yan Wang	Postgraduate, full-time research	Electronics and Electrical Engineering	yw14g13	
+Yudong Wang	Research staff	Nano Research Group	ydw08r	+44 (0)23 8059 2422
+Sarah A Ward	Postgraduate, submitted		saj1g08	
+Tyler Ward	Postgraduate, full-time research	Web and Internet Science	tw16g08	+44 (0)23 8059 4583
+Angela Watkins	Postgraduate, submitted	Agents, Interaction and Complexity	aw4g09	
+Dr Richard A. Watson	Academic staff	Agents, Interaction and Complexity	raw	+44 (0)23 8059 2690
+Dr Mark J Weal	Academic staff	Web and Internet Science	mjw	+44 (0)23 8059 9400
+Eric G Webb	Technical staff	Mechanical Workshop	egw	+44 (0)23 8059 3365
+Jack Webster	Postgraduate, instructional course	dPhdWs1	jw30g11	
+Dr Alex Weddell	Academic staff	Electronics and Electrical Engineering	asw	+44 (0)23 8059 9047
+Dr Yang Wei	Research staff	Electronics and Electrical Engineering	yw1f10	+44 (0)23 8059 2126
+Ronald Wejuli	Postgraduate, instructional course (not yet registered)	csMScCy	rw2e14	
+Peter West	Postgraduate, full-time research	Web and Internet Science	pw9g09	
+Robyn A Weston	Undergraduate	pj2	raw1g13	
+Adam White	Postgraduate, nominal	Postgraduate Guest	aw406	
+Magnus P White	Technical staff	Nano Research Group	mpw	+44 (0)23 8059 2652
+Professor Neil White	Academic staff	Electronics and Electrical Engineering	nmw	+44 (0)23 8059 3765
+Roger I White	Technical staff	Electronics Construction, Maintenance and Logistics	riw	+44 (0)23 8059 2074
+Dr Su White	Academic staff	Web and Internet Science	saw	+44 (0)23 8059 4471
+Abby Whitmarsh	Postgraduate, full-time research	Web and Internet Science	aw3g09	+44 (0)23 8059 3048
+Matthew Wiggans	Undergraduate	eeeMEng1	mw10g14	
+David Wigram	Postgraduate, full-time research	Web and Internet Science	dw6g09	+44 (0)23 8059 7684
+Adriana Wilde	Postgraduate, suspended	Web and Internet Science	agw106	+44 (0)23 8059 8787
+Professor James S Wilkinson	Academic staff	Other (non-ECS but in our database)	jsw	+44 (0)23 8059 2792
+Dr Toby Wilkinson	Research staff	Electronic and Software Systems	stw1e13	+44 (0)23 8059 3122
+Thomas Williams	Undergraduate	Pt III BSc Computer Science 	tw10g12	
+Aniebiet Willie	Postgraduate, instructional course	MSc in Software Engineering 	afw1g14	
+Dr Gary B Wills	Academic staff	Electronic and Software Systems	gbw	+44 (0)23 8059 2831
+Dr Peter R Wilson	Academic staff	Electronics and Electrical Engineering	prw	+44 (0)23 8059 4162
+Dr Ivan C Wolton	Associated staff	Systems Group	I.C.Wolton@soton.ac.uk	+44 (0)23 8059 7048
+Seunghwan Won	Academic staff	Other (non-ECS but in our database)	sw6f12	77470
+Woraluck Wongse-Ek	Postgraduate, full-time research	Electronic and Software Systems	wwe1g09	
+Alex L. Wood	Postgraduate, submitted	Electronic and Software Systems	alw306	+44 (0)23 8059 4996
+Graham S Wood	Postgraduate, full-time research	Nano Research Group	gsw1g11	+44 (0)23 8059 3127
+Song Xiao	Postgraduate, submitted	Electronics and Electrical Engineering	sx1g10	
+Yekun Xiao	Undergraduate	pj3	yx12e13	
+Chao Xu	Postgraduate, nominal	Communications, Signal Processing and Control	cx1g08	
+Shaobo Xu	Postgraduate, instructional course	MSc in System on Chip 	sx5e14	
+Yani Xue	Postgraduate, instructional course	MSc in Web Technology 	yx3n13	
+Fara Yahya	Postgraduate, full-time research	Electronic and Software Systems	fby1g14	
+Haocong Yan	Postgraduate, instructional course	MSc in Wireless Communications 	hy3g13	
+Haoxiang Yang	Postgraduate, instructional course	MSc in Microelectronics Systems Design 	hy7g14	
+Dr Kai Yang	Research staff	Electronics and Electrical Engineering	ky2	+44 (0)23 8059 6665
+Professor Lie-Liang Yang	Academic staff	Communications, Signal Processing and Control	lly	+44 (0)23 8059 3364
+Dr. Shaoshi Yang	Research staff	Other (non-ECS but in our database)	sy7g09	+44 (0)23 8059 9317
+Dr. Sheng Yang	Research staff	Electronic and Software Systems	sy2u12	+44 (0)23 8059 2888
+Yang Yang	Postgraduate, submitted	Web and Internet Science	yy1402	+44 (0)23 8059 8346
+Jiadi Yao	Postgraduate, submitted	Web and Internet Science	jy2e08	+44 (0)23 8059 4492
+Sheng Ye	Postgraduate, full-time research	Nano Research Group	sy3g10	+44 (0)23 8059 3127
+Sanaz Yeganefard	Postgraduate, submitted	Electronic and Software Systems	sy2g08	+44 (0)23 8059 3123
+Halil Yetgin	Postgraduate, nominal	Communications, Signal Processing and Control	hy3g09	
+Ioannis Yiannaki	Postgraduate, instructional course	MSc in Energy and Sustainability with Electrical Power Engineering 	iy1g13	
+Michael Yip	Postgraduate, nominal	Web and Internet Science	my2e09	
+Julian Yon	Undergraduate	Pt III BSc Computer Science 	jlpy1g12	
+Seongwoo Yoo	Research staff (Visiting)	Optoelectronics Research Centre	syoo	
+Muhammad Ali Yousuf	Postgraduate, instructional course	MSc in Software Engineering 	may1n12	
+Aristea-Maria Zafeiropoulou	Postgraduate, submitted	Web and Internet Science	az4g09	
+Ed Zaluska	Academic staff	Web and Internet Science	ejz	+44 (0)23 8059 3379
+Dr. Klaus-Peter Zauner	Academic staff	Agents, Interaction and Complexity	kpz	+44 (0)23 8059 3089
+Stathis Zavvos	Postgraduate, full-time research	Agents, Interaction and Complexity	ez3g12	+44 (0)23 8059 2774
+Jurgita Zekonyte	Research staff (Visiting)	Other (non-ECS but in our database)	jz1c08	+44 (0)23 8059 3761
+Alexandros Zenonos	Postgraduate, full-time research	Agents, Interaction and Complexity	az2g13	
+Bo Zhang	Postgraduate, nominal	Communications, Signal Processing and Control	bz2g10	
+Dr Rong Zhang	Academic staff	Communications, Signal Processing and Control	rz	+44 (0)23 8059 9305
+Yan Zhang	Undergraduate	Pt II BSc Computer Science 	yz5n12	
+Yichi Zhang	Postgraduate, instructional course	MSc in Microelectronics Systems Design 	yz16g13	
+Zhao Zhang	Postgraduate, full-time research	Electronics and Electrical Engineering	zz2e08	
+Zhihua Zhang	Postgraduate, instructional course	MSc in System on Chip 	zz5g13	
+Chun Zhao	Postgraduate, nominal	Nano Research Group	cz1y10	+44 (0)23 8059 3127
+Dr Dengji Zhao	Research staff	Agents, Interaction and Complexity	dz1a13	
+Wenyi Zhao	Postgraduate, instructional course	MSc in Energy and Sustainability with Electrical Power Engineering 	wz2e13	
+Yan Zhao	Postgraduate, submitted	Nano Research Group	yz3a09	+44 (0)23 8059 6783
+Ning Zheng	Postgraduate, suspended	Communications, Signal Processing and Control	nz4e11	
+Dr Shida Zhong	Research staff	Communications, Signal Processing and Control	sz3a12	+44 (0)23 8059 9317
+Churui Zhou	Postgraduate, full-time research	Electronics and Electrical Engineering	cz3g13	
+Yuan Zhou	Postgraduate, nominal	Electronics and Electrical Engineering	yz1d10	
+Dr Dibin Zhu	Research staff	Electronics and Electrical Engineering	dz	+44 (0)23 8059 5161
+Huma Zia	Postgraduate, full-time research	Electronics and Electrical Engineering	hz2g11	+44 (0)23 8059 3234
+Davide Zilli	Postgraduate, full-time research	Electronic and Software Systems	dz2v07	+44 (0)23 8059 4996
+Robert Zmijan	Postgraduate, submitted	Nano Research Group	rz08r	+44 (0)23 8059 6783
+Xin Zuo	Postgraduate, nominal	Communications, Signal Processing and Control	xz3g08	
+Professor Mark Zwolinski	Academic staff	Electronics and Electrical Engineering	mz	+44 (0)23 8059 3528
