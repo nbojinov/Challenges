@@ -1,13 +1,10 @@
 package org.primary;
 
-import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
 
-import javax.imageio.ImageIO;
 
 public class Extractor {
 
