@@ -142,7 +142,6 @@ public class Screen extends JPanel{
 		for(int i=0;i<3;i++){
 			int index=rand.nextInt(people.size());
 			Person p=people.get(index);
-			p.getName().replace("&quot;", "\"");
 			nextChosenPeople.add(p);
 			people.remove(index);
 		}

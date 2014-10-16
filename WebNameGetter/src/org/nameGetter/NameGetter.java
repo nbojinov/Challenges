@@ -28,7 +28,7 @@ public class NameGetter {
 				if(name.equals("ECS People")){
 					System.out.println("Nobody found!");
 				} else {
-					System.out.println(name);
+					System.out.println(name.replace("&quot;", "\""));
 				}
 			} catch (Exception e){
 				e.printStackTrace();

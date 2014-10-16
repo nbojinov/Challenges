@@ -8,7 +8,7 @@ public class Person {
 	
 	public Person(String e,String n,String i){
 		emailId=e;
-		name=n;
+		name=n.replace("&quot;", "\"");
 		imageUrl=i;
 	}
 

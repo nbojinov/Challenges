@@ -12,7 +12,7 @@ public class Main extends JFrame{
 	public static final int WIDTH=640;
 	public static final int HEIGHT=480;
 	public static final int MAX_IMAGE_LENGTH=300;
-	public static final int NUMBER_OF_QUESTIONS=10;
+	public static final int NUMBER_OF_QUESTIONS=7;
 	
 	public Main() throws MalformedURLException, IOException{
 		setTitle("GetToKnowECS");
