@@ -1,3 +1,9 @@
+//Graphics thanks to : http://open.commonly.cc/unlocked
+//Applet flickering (update function) fix from: http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=261&lngWId=2
+//Physics thanks to David Gouveia: http://gamedev.stackexchange.com/questions/29617/how-to-make-a-character-jump
+
+
+
 import java.applet.Applet;
 import java.awt.Dimension;
 import java.awt.Graphics;
