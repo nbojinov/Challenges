@@ -13,8 +13,11 @@ public class MyGraph {
 		this.r=r;
 		this.O=O;
 		
-		x=(R+r)*Math.cos(0)+O*Math.cos(0);
-		y=(R+r)*Math.sin(0)+O*Math.sin(0);
+		//x=(R+r)*Math.cos(0)+O*Math.cos(0);
+		//y=(R+r)*Math.sin(0)+O*Math.sin(0);
+		x=(R+r)*Math.cos(0)-(r+O)*Math.cos(0);
+		y=(R+r)*Math.sin(0)-(r+O)*Math.sin(0);
+		
 		
 		originX=x;
 		originY=y;
@@ -28,8 +31,10 @@ public class MyGraph {
 			t++;
 			prevX=x;
 			prevY=y;
-			x=(R+r)*Math.cos(t*Math.PI/180)+O*Math.cos(((R+r)*t/r)*Math.PI/180);
-			y=(R+r)*Math.sin(t*Math.PI/180)+O*Math.sin(((R+r)*t/r)*Math.PI/180);
+			x=(R+r)*Math.cos(t*Math.PI/180)-(r+O)*Math.cos(((R+r)/r)*t*Math.PI/180);
+			y=(R+r)*Math.sin(t*Math.PI/180)-(r+O)*Math.sin(((R+r)/r)*t*Math.PI/180);
+			//x = (R+r)*cos(t) - (r+O)*cos(((R+r)/r)*t)
+				//	y = (R+r)*sin(t) - (r+O)*sin(((R+r)/r)*t)
 			g.drawLine((int)(Main.CANVAS_WIDTH/2+prevX),(int)(Main.CANVAS_HEIGHT/2+prevY),(int)(Main.CANVAS_WIDTH/2+x),(int)(Main.CANVAS_HEIGHT/2+y));
 			//System.out.println("line "+(t-1)+"->"+t+" x1="+(int)(Main.WIDTH/2+prevX)+" y1="+(int)(Main.HEIGHT/2+prevY)+" \nx2="+(int)(Main.WIDTH/2+x)+" y2="+(int)(Main.HEIGHT/2+y));
 			
